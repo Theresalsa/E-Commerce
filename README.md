@@ -6,3 +6,8 @@ Java Spring Boot, Spring Security, Angular, Bootstrap CSS, TypeScript, Java, MyS
 
 ### Third-Party API: 
 Stripe APIs for payment processing
+
+### Reference resources:
+#### Install node, npm, and tsc on MAC:
+https://www.npmjs.com/package/typescript
+https://medium.com/devops-techable/how-to-install-nvm-node-version-manager-on-macos-with-homebrew-1bc10626181
